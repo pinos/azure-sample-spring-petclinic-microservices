@@ -6,6 +6,7 @@ env:
   SPRING_CLOUD_SERVICE: cq-spring-pet-clinic-services # customize this
   KEYVAULT: cq-pet-clinic-key-vault2 # customize this
   
+  
   # ==== APPS ====:
   API_GATEWAY: api-gateway
   ADMIN_SERVER: admin-server
