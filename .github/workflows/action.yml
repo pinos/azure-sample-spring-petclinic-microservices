@@ -5,6 +5,7 @@ env:
   AZURE_SUBSCRIPTION: 39129b48-9eab-445d-bf05-d69d3b1363b7 # customize this
   SPRING_CLOUD_SERVICE: cq-spring-pet-clinic-services # customize this
   KEYVAULT: cq-pet-clinic-key-vault # customize this
+  
   # ==== APPS ====:
   API_GATEWAY: api-gateway
   ADMIN_SERVER: admin-server
