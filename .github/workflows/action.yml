@@ -3,8 +3,8 @@ on: [push]
 
 env:
   AZURE_SUBSCRIPTION: 39129b48-9eab-445d-bf05-d69d3b1363b7 # customize this
-  SPRING_CLOUD_SERVICE: cq-spring-pet-clinic-services # customize this
-  KEYVAULT: cq-pet-clinic-key-vault2 # customize this
+  SPRING_CLOUD_SERVICE: cq-jc2022-pet-clinic-services01 # customize this
+  KEYVAULT: cq-jc2022-keyvault1 # customize this
   
   
   
