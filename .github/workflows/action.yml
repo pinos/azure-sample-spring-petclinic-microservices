@@ -7,7 +7,6 @@ env:
   KEYVAULT: cq-jc2022-keyvault021 # customize this
     
   
-  
   # ==== APPS ====:
   API_GATEWAY: api-gateway
   ADMIN_SERVER: admin-server
